@@ -1,7 +1,8 @@
-Part Name - IMA Part-123 Not a Part345 Breakout
+SparkFun XBee Explorer Dongle
 ========================================
 
 ![SparkFun XBee Explorer Dongle](https://cdn.sparkfun.com//assets/parts/7/8/6/5/11697-00.jpg)
+
 [*SparkFun XBee Explorer Dongle (WRL-11697)*](https://www.sparkfun.com/products/11697)
 
 With the XBee Explorer Dongle you can plug the unit directly into your USB port 
