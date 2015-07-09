@@ -1,7 +1,7 @@
 SparkFun XBee Explorer Dongle
 ========================================
 
-![SparkFun XBee Explorer Dongle](https://cdn.sparkfun.com//assets/parts/7/8/6/5/11697-00.jpg)
+![SparkFun XBee Explorer Dongle](https://cdn.sparkfun.com//assets/parts/7/8/6/5/11697-01b.jpg)
 
 [*SparkFun XBee Explorer Dongle (WRL-11697)*](https://www.sparkfun.com/products/11697)
 
@@ -20,11 +20,19 @@ Product Versions
 
 Version History
 ---------------
+* [V_2.3](https://github.com/sparkfun/XBee_Explorer_Dongle/tree/V_2.3) - GitHub files, version 2.3. Current
 * [V_2.2](https://github.com/sparkfun/XBee_Explorer_Dongle/tree/V_2.2) - GitHub files, version 2.2
 * [V_1.2](https://github.com/sparkfun/XBee_Explorer_Dongle/tree/V_1.2) -GitHub files, version 1.2. 
 
 License Information
 -------------------
-The hardware is released under [Creative Commons ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/).
+
+This product is _**open source**_! 
+
+Please review the LICENSE.md file for license information. 
+
+If you have any questions or concerns on licensing, please contact techsupport@sparkfun.com.
 
 Distributed as-is; no warranty is given.
+
+- Your friends at SparkFun.
