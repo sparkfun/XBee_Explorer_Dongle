@@ -14,8 +14,15 @@ Repository Contents
 * **/Hardware** - All Eagle design files (.brd, .sch, .STL)
 * **/Production** - Test bed files and production panel files
 
+Documentation
+--------------
+* **[Hookup Guide](https://learn.sparkfun.com/tutorials/exploring-xbees-and-xctu)** - Basic hookup guide for the XBee Explorer.
+* **[SparkFun Fritzing repo](https://github.com/sparkfun/Fritzing_Parts)** - Fritzing diagrams for SparkFun products.
+* **[SparkFun 3D Model repo](https://github.com/sparkfun/3D_Models)** - 3D models of SparkFun products. 
+
 Product Versions
 ----------------
+* [WRL-11697](https://www.sparkfun.com/products/11697)- XBee Dongle with the FT232 USB to serial converter, v23. Current.
 * [WRL-09819](https://www.sparkfun.com/products/retired/9819)- XBee Dongle with the FT232 USB to serial converter, v12. Retired.
 
 Version History
